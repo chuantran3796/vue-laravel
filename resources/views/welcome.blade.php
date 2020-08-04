@@ -102,4 +102,3 @@
 
     </body>
 </html>
-<script src="{{ mix('dist/js/app.js') }}"></script>
