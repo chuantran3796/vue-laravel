@@ -96,5 +96,10 @@
                 </div>
             </div>
         </div>
+
+        <div id="app"></div>
+
+
     </body>
 </html>
+<script src="{{ mix('dist/js/app.js') }}"></script>
