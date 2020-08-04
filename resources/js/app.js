@@ -13,6 +13,6 @@ Vue.config.productionTip = false
 new Vue({
   // i18n,
   // store,
-  // router,
-  // ...App
+  router,
+  ...App
 })
